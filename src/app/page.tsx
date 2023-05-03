@@ -2,7 +2,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react'
 import { TopPlaylist } from './components/TopPlaylists'
 import { MiddlePlaylist } from './components/MiddlePlaylists'
 import { SideBar } from './components/SideBar'
-import { Footer } from './components/footer'
+import { Footer } from './components/Footer'
 
 export default function Home() {
   return (
